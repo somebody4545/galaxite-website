@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 350%;
+    margin-top: 75px
+}
+
+body {
+    background-image: url('images/galaxy-background.png');
+}
+
+.features {
+    background-color: #222222;
+    width: 97%;
+    align-items: center;
+    height: 500px;
+    border-radius: 25px;
+}
+
+.feature-title {
+    color:white;
+    padding-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+}
