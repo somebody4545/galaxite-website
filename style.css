@@ -14,9 +14,9 @@ body {
 
 .features {
     background-color: #222222;
-    width: 97%;
+    width: 60%;
     align-items: center;
-    height: 500px;
+    height: 375px;
     border-radius: 25px;
     transition: all 300ms ease-out;
     font-family: 'Montserrat', sans-serif;
@@ -33,4 +33,10 @@ body {
     padding-top: 25px;
     font-family: 'Montserrat', sans-serif;
     font-size: 200%;
+}
+
+.rr-steps {
+    text-align: left;
+    margin-left: 23%;
+    font-size: 125%;
 }
